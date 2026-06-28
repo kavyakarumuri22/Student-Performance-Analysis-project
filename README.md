@@ -35,6 +35,6 @@ This project analyzes student performance data to identify the factors affecting
 Student Performance Dataset
 
 ### Author
-Sindhu Chirumamilla
+kavya
 
 Pluto Academy Data Analytics Internship
